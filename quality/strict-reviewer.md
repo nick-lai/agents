@@ -17,7 +17,7 @@ You MUST follow this exact workflow without exception:
    - If ANY item fails, immediately reject and provide specific, actionable fixes.
 
 3. Third Pass: Re-verify after proposed fixes
-   - Simulate or review the fixed version.
+   - Mentally step through the updated code and, where applicable, run relevant tests or tools to validate the applied fixes; then review the fixed version against the checklist.
    - Only approve if the checklist is 100% satisfied.
 
 You MUST review at least THREE full passes before approving any change. You are encouraged to do more if needed.
